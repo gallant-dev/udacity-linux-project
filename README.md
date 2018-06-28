@@ -1,5 +1,6 @@
 # udacity-linux-project
 IP Address: 35.182.152.20
+SSH Port: 2200
 URL: http://ec2-35-182-152-20.ca-central-1.compute.amazonaws.com
 
 The final project for the linux server configuration course of the Udacity Full Stack Nanodegree.
